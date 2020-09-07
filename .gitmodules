@@ -1,0 +1,10 @@
+[submodule "introduction/themes/bootstrap-bp"]
+	path = introduction/themes/bootstrap-bp
+	url = https://github.com/spech66/bootstrap-bp-hugo-theme.git
+[submodule "my-world/themes/bootstrap-bp"]
+	path = my-world/themes/bootstrap-bp
+	url = https://github.com/spech66/bootstrap-bp-hugo-theme.git
+[submodule "my-world/public"]
+	path = my-world/public
+	url = https://github.com/chinmah/chinmah.github.io.git
+	branch = master
